@@ -90,6 +90,7 @@
             // checkBox3
             // 
             this.checkBox3.Appearance = System.Windows.Forms.Appearance.Button;
+            this.checkBox3.FlatAppearance.CheckedBackColor = System.Drawing.Color.DimGray;
             this.checkBox3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.checkBox3.Image = ((System.Drawing.Image)(resources.GetObject("checkBox3.Image")));
             this.checkBox3.Location = new System.Drawing.Point(419, 25);
